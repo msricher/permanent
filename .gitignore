@@ -1,0 +1,5 @@
+*.o
+*.so
+__pycache__
+*.pyc
+test_runner
